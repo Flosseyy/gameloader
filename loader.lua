@@ -4,6 +4,7 @@ local BASE_URL = "https://raw.githubusercontent.com/Flosseyy/gameloader/main/gam
 
 local games = {
     [109397169461300]  = "sniperduels.lua",
+    [286090429] = "arsenal.lua',
 }
 
 local file = games[placeId]
