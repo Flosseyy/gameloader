@@ -6,6 +6,7 @@ local games = {
     [109397169461300] = "sniperduels.lua",
     [286090429]       = "arsenal.lua",
     [94217045453265]  = "duelgrounds.lua",
+    [136801880565837] = "flick.lua",
 }
 
 local file = games[placeId]
