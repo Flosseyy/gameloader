@@ -12,6 +12,7 @@ local games = {
     [14772802900] = "jailbird.lua",
     [124216119978534] = "rideapet.lua",
     [88047783411976] = "osfa.lua",
+    [110730550789828] = "choptree.lua",
 }
 
 local file = games[placeId]
